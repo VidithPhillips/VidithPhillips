@@ -1,7 +1,5 @@
 <!-- Dr. Vidith Phillips, MD, MS - Modern GitHub Profile -->
 
-<!-- Dr. Vidith Phillips, MD, MS - Modern GitHub Profile -->
-
 <div align="center">
   <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="100%" alt="AI Neural Network Banner">
 </div>
@@ -32,27 +30,13 @@
 </p>
 
 <p align="center">
-  <a href="https://vidithphillips.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Website-1A1B41?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=9C3766" alt="Website" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/vidith-phillips-md-ms-11841a6b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1A1B41?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2E86AB" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://scholar.google.com/citations?user=x6IlIFcAAAAJ&hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Scholar-1A1B41?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=F24236" alt="Google Scholar" />
-  </a>&nbsp;
-  <a href="https://orcid.org/0009-0006-3832-0634" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-1A1B41?style=for-the-badge&logo=orcid&logoColor=white&labelColor=2A9D8F" alt="ORCID" />
-  </a>
+Physician-scientist at Johns Hopkins University specializing in AI applications for neurological diagnostics. American Diabetes Association Scholar and Hexcite Competition Winner developing innovative tools for vestibular assessment, stroke detection, and clinical decision support.
 </p>
 
-<br>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E86AB&center=true&vCenter=true&random=false&width=600&height=60&lines=Revolutionizing+healthcare+through+AI+innovation;Bridging+clinical+medicine+with+artificial+intelligence;Developing+cutting-edge+neurological+diagnostics;Johns+Hopkins+University+physician-scientist" alt="Typing SVG" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<!-- Skills & Languages -->
 <!-- Compact stats card with appropriate metrics -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VidithPhillips&theme=nord_dark" width="85%" />
@@ -64,29 +48,29 @@
 </div>
 
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px" height="30px">
   Research Focus
 </h2>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
+  <table>
     <tr>
-      <td width="50%">
-        <h3>Medical Imaging & Diagnostics</h3>
+      <td width="60%" valign="middle">
+        <h3>AI in Neurological Diagnostics</h3>
         <ul>
-          <li>👁️ Advanced eye tracking systems</li>
-          <li>🧠 AI-powered neuroimaging analysis</li>
-          <li>📱 Vestibular assessment technology</li>
+          <li>👁️ HINTS stroke detection technology</li>
+          <li>🧠 Deep learning for brain MRI analysis</li>
+          <li>📱 Smartphone-based vestibular assessment</li>
         </ul>
         <h3>Clinical AI Applications</h3>
         <ul>
-          <li>🤖 Explainable AI solutions</li>
-          <li>📊 Clinical validation frameworks</li>
-          <li>🎯 Patient outcome prediction</li>
+          <li>🤖 LLMs for diabetes management (ADA)</li>
+          <li>📊 Biomedical LLM quality assessment</li>
+          <li>🎯 AI ethics in patient care</li>
         </ul>
       </td>
-      <td width="50%" align="center">
-        <img width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Medical AI GIF">
+      <td width="40%" align="center" valign="middle">
+        <img width="100%" src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" alt="AI Medical Animation">
       </td>
     </tr>
   </table>
@@ -186,105 +170,10 @@
   </tr>
 </table>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp7qL/giphy.gif" width="30px" height="30px">
-  Technical Expertise
-</h2>
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>
-        <div align="center">
-          <table>
-            <tr>
-              <td align="center" width="80">
-                <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
-                <br>Python
-              </td>
-              <td align="center" width="80">
-                <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
-                <br>JavaScript
-              </td>
-              <td align="center" width="80">
-                <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65"/>
-                <br>React
-              </td>
-              <td align="center" width="80">
-                <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
-                <br>Docker
-              </td>
-              <td align="center" width="80">
-                <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65"/>
-                <br>AWS
-              </td>
-            </tr>
-          </table>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div align="center">
-          <table>
-            <tr>
-              <td align="center" width="80">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="65" height="65"/>
-                <br>TensorFlow
-              </td>
-              <td align="center" width="80">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="65" height="65"/>
-                <br>PyTorch
-              </td>
-              <td align="center" width="80">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="65" height="65"/>
-                <br>OpenCV
-              </td>
-              <td align="center" width="80">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="65" height="65"/>
-                <br>Scikit-learn
-              </td>
-              <td align="center" width="80">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" width="65" height="65"/>
-                <br>Git
-              </td>
-            </tr>
-          </table>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Activity graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VidithPhillips&bg_color=0d1117&color=2E86AB&line=F24236&point=2A9D8F&area=true&area_color=9C3766&hide_border=true&radius=8" width="90%" alt="Activity graph" />
-</div>
-
-<!-- Streak Stats with glowing effect -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=VidithPhillips&hide_border=true&background=0D1117&ring=F24236&fire=9C3766&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2A9D8F&sideLabels=2E86AB&dates=777777" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=VidithPhillips&hide_border=true&ring=F24236&fire=9C3766&currStreakNum=1A1B41&sideNums=1A1B41&currStreakLabel=2A9D8F&sideLabels=2E86AB&dates=777777" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=VidithPhillips&hide_border=true&ring=F24236&fire=9C3766&currStreakNum=1A1B41&sideNums=1A1B41&currStreakLabel=2A9D8F&sideLabels=2E86AB&dates=777777" width="70%" alt="Streak Stats" />
-  </picture>
-</div>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/BjTn47COgKGEKVJZnS/giphy.gif" width="30px" height="30px">
-  GitHub Achievements
-</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VidithPhillips&theme=nord&no-frame=true&column=6&row=1&margin-w=15" width="90%" alt="trophy" />
-</div>
-
-<!-- 3D Visitor count -->
 <div align="center">
   <a href="https://github.com/VidithPhillips">
     <img src="https://profile-counter.glitch.me/VidithPhillips/count.svg" alt="Visitor Count" />
   </a>
 </div>
 
-<!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,114,178,0,42&height=120&section=footer&animation=fadeIn&renderScale=2.2" width="100%" />
