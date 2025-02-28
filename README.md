@@ -6,6 +6,7 @@
 
 <h1 align="center">
   <b style="color:#2A9D8F;">Dr. Vidith Phillips, MD, MS</b>
+  <img src="https://media.giphy.com/media/3o7TKUM3IgJBX2as9O/giphy.gif" width="50px" align="center">
 </h1>
 
 <p align="center">
@@ -45,6 +46,7 @@ Physician-scientist at Johns Hopkins University specializing in AI applications 
 <div align="center" style="margin-top:15px">
   <img height="150px" src="https://github-readme-streak-stats.herokuapp.com?user=VidithPhillips&hide_border=true&background=0D1117&ring=F24236&fire=9C3766&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2A9D8F&sideLabels=2E86AB&dates=777777" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=VidithPhillips&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nord&hide_rank=true" />
+  <img width="120px" align="right" src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif">
 </div>
 
 <h2 align="center">
@@ -70,7 +72,8 @@ Physician-scientist at Johns Hopkins University specializing in AI applications 
         </ul>
       </td>
       <td width="40%" align="center" valign="middle">
-        <img width="100%" src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" alt="AI Medical Animation">
+        <img width="100%" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="AI Medical Animation">
+        <img width="120px" src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" style="margin-top:10px;">
       </td>
     </tr>
   </table>
@@ -95,6 +98,8 @@ Physician-scientist at Johns Hopkins University specializing in AI applications 
         <img src="https://cdn-icons-png.flaticon.com/128/6295/6295417.png" width="64px" height="64px" />
         <p>ADA Scholar 2024: Large language models as clinical decision support for Type 2 Diabetes</p>
         <img src="https://skillicons.dev/icons?i=python,tensorflow,react" />
+        <br>
+        <img width="120px" src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif" style="margin-top:10px;">
       </td>
     </tr>
     <tr>
@@ -103,12 +108,16 @@ Physician-scientist at Johns Hopkins University specializing in AI applications 
         <img src="https://cdn-icons-png.flaticon.com/128/5778/5778578.png" width="64px" height="64px" />
         <p>Optimizing smartphone head and eye tracking algorithms for high-precision vestibular assessment</p>
         <img src="https://skillicons.dev/icons?i=python,opencv,js" />
+        <br>
+        <img width="120px" src="https://media.giphy.com/media/H5C8CevNMbpBqNqFjl/giphy.gif" style="margin-top:10px;">
       </td>
       <td width="50%" align="center">
         <h3 style="color:#9C3766;">Deep Learning for MRI Analysis</h3>
         <img src="https://cdn-icons-png.flaticon.com/128/4616/4616734.png" width="64px" height="64px" />
         <p>Predicting neonatal hypoxic ischemic encephalopathy lesions from T2 MRI using deep learning</p>
         <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+        <br>
+        <img width="120px" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
       </td>
     </tr>
   </table>
@@ -121,7 +130,7 @@ Physician-scientist at Johns Hopkins University specializing in AI applications 
 
 <table border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
-    <td width="30%">
+          <td width="30%">
       <div align="center">
         <img src="https://img.icons8.com/color/96/artificial-intelligence.png" alt="AI Paper" width="80">
       </div>
@@ -137,7 +146,7 @@ Physician-scientist at Johns Hopkins University specializing in AI applications 
     </td>
   </tr>
   <tr>
-    <td width="30%">
+          <td width="30%">
       <div align="center">
         <img src="https://img.icons8.com/color/96/smartphone.png" alt="Smartphone VOG" width="80">
       </div>
@@ -153,7 +162,7 @@ Physician-scientist at Johns Hopkins University specializing in AI applications 
     </td>
   </tr>
   <tr>
-    <td width="30%">
+          <td width="30%">
       <div align="center">
         <img src="https://img.icons8.com/color/96/neurology.png" alt="Neurology" width="80">
       </div>
@@ -174,6 +183,8 @@ Physician-scientist at Johns Hopkins University specializing in AI applications 
   <a href="https://github.com/VidithPhillips">
     <img src="https://profile-counter.glitch.me/VidithPhillips/count.svg" alt="Visitor Count" />
   </a>
+  <br>
+  <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif" width="200" height="auto" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,114,178,0,42&height=120&section=footer&animation=fadeIn&renderScale=2.2" width="100%" />
